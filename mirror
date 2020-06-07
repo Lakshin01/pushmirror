@@ -4,7 +4,7 @@ username=_lakshin
 
 
 read -p "Enter commit message " msg
-git commit -m "msg"
+
 if [ -d ~/.ssh ];then
 echo ".ssh exists"
 else
@@ -23,6 +23,8 @@ if [ -d ./.git ];then
 git remote add origin git@gitlab.com:${username}/${PWD##*/}.git
 
 git add .
+
+git commit -m "msg"
 
 git status
 
