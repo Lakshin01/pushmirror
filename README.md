@@ -8,7 +8,7 @@ Dependencies as of now :
 #### To Use this script
 
 ```
-git clone https://link.git
+git clone https://github.com/Lakshin01/pushmirror.git
 ```
 ```
 chmod u+x mirror
