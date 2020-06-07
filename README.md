@@ -19,4 +19,13 @@ chmod u+x mirror
 
 
 
-* Fun Fact: *This project is uploaded with this script itself** 
+* Fun Fact: *This project is uploaded with this script itself*
+
+
+
+### Goals and Welcomed Contributions
+
+* Add a feature to make in public repo or private
+* Add Setup setup guide either here or as a mini script
+* Analyse Hub Dependecy and try to recreate it 
+* Make it portable and efficient
